@@ -7,6 +7,8 @@ In this project the user can interact with a SQL database to get/create/update/d
 rows. The data in the database represents a mock e-commerce business, with a 
 products/Tag/ProductTag/Category tables.
 
+Link to video Demonstration: https://drive.google.com/file/d/1-u_zRGJ-eE_80nrejwC72BL0JOyeMKD8/view
+
 ## Screenshots
 
 ![Screenshot_one](/assets/screenshot_one.PNG)
