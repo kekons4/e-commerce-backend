@@ -21,7 +21,7 @@ products/Tag/ProductTag/Category tables.
 ![Screenshot_four](/assets/screenshot_four.PNG)
 ##### PUT of a Tag
 
-![Screenshot_five](/assets/screenshot_five.png)
+![Screenshot_five](/assets/screenshot_five.PNG)
 ##### DELETE of a Tag
 
 ## Installation
