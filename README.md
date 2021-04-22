@@ -23,7 +23,7 @@ Link to video Demonstration: https://drive.google.com/file/d/1-u_zRGJ-eE_80nrejw
 ![Screenshot_four](/assets/screenshot_four.PNG)
 ##### PUT of a Tag
 
-![Screenshot_five](/assets/screenshot_five.png)
+![Screenshot_five](/assets/screenshot_five.PNG)
 ##### DELETE of a Tag
 
 ## Installation
