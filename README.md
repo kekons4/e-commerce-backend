@@ -12,5 +12,14 @@ products/Tag/ProductTag/Category tables.
 ![Screenshot_one](/assets/screenshot_one.png)
 ##### GET of all Products
 
-![Screenshots_two](/assets/screenshots_two.png)
+![Screenshot_two](/assets/screenshot_two.png)
 ##### GET of a single Product with all associated information
+
+![Screenshot_three](/assets/screenshot_three.png)
+##### POST of a category
+
+![Screenshot_four](/assets/screenshot_four.png)
+##### PUT of a Tag
+
+![Screenshot_five](/assets/screenshot_five.png)
+##### DELETE of a Tag
